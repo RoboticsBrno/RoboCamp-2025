@@ -24,3 +24,12 @@ Programuje se stejně jako minulý rok v TypeScriptu s pomocí Jacula ([jaculus.
 Tento rok sice nemáme nové pájecí výrobky, ale všechny pájecí výrobky z minulých let si můžete stále vyrobit.
 
 [Pájecí výrobky](https://gadgets.robotikabrno.cz/){ .md-button .md-button--primary }
+
+
+## Rozcestník lokálních sadres
+
+- [files.lan](http://files.lan/) - lokální verze souborů
+- [navod.lan](http://navod.lan/) - stejně jako 2025.robotickytabor.cz
+- [robutek.lan](http://robutek.lan/) - stejně jako robutek.robotikabrno.cz
+- [smd-challenge.lan](http://smd-challenge.lan/) - stejně jako smd-challenge.robotikabrno.cz
+- [gadgets.lan](http://gadgets.lan/) - stejně jako gadgets.robotikabrno.cz
