@@ -26,7 +26,7 @@ Tento rok sice nemáme nové pájecí výrobky, ale všechny pájecí výrobky z
 [Pájecí výrobky](https://gadgets.robotikabrno.cz/){ .md-button .md-button--primary }
 
 
-## Rozcestník lokálních sadres
+## Rozcestník lokálních adres
 
 - [files.lan](http://files.lan/) - lokální verze souborů
 - [navod.lan](http://navod.lan/) - stejně jako 2025.robotickytabor.cz
