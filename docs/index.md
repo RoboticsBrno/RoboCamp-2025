@@ -29,7 +29,8 @@ Tento rok sice nemáme nové pájecí výrobky, ale všechny pájecí výrobky z
 ## Rozcestník lokálních adres
 
 - [files.lan](http://files.lan/) - lokální verze souborů
-- [navod.lan](http://navod.lan/) - stejně jako 2025.robotickytabor.cz
-- [robutek.lan](http://robutek.lan/) - stejně jako robutek.robotikabrno.cz
-- [smd-challenge.lan](http://smd-challenge.lan/) - stejně jako smd-challenge.robotikabrno.cz
-- [gadgets.lan](http://gadgets.lan/) - stejně jako gadgets.robotikabrno.cz
+- [navod.lan](http://navod.lan/) - stejně jako [2025.robotickytabor.cz](https://2025.robotickytabor.cz)
+- [robutek.lan](http://robutek.lan/) - stejně jako [robutek.robotikabrno.cz](https://robutek.robotikabrno.cz)
+- [smd-challenge.lan](http://smd-challenge.lan/) - stejně jako [smd-challenge.robotikabrno.cz](https://smd-challenge.robotikabrno.cz)
+- [gadgets.lan](http://gadgets.lan/) - stejně jako [gadgets.robotikabrno.cz](https://gadgets.robotikabrno.cz)
+- [robocoin.lan](http://robocoin.lan/) - stejně jako [robocoin.robotikabrno.cz](http://robocoin.robotikabrno.cz)
