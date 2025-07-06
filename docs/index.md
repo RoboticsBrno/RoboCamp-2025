@@ -8,7 +8,7 @@ Hlavním výrobkem letošního tábora je [Robůtek V2](https://robutek.robotika
 
 [Dokumentace](https://robutek.robotikabrno.cz/v2/){ .md-button .md-button--primary }
 
-![Robutek](assets/Robutek.jpg)
+![Robutek](assets/V2_robutek-final-cover.png)
 
 <br>
 Minulý rok byl [Robůtek V1](https://robutek.robotikabrno.cz/v1/), ale tento rok mu přibylo dost nových funkcí a rozšíření.
